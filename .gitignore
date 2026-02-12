@@ -1,1 +1,17 @@
+# Virtual environments
 .venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
